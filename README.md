@@ -1,7 +1,7 @@
 
 ## CERAMIC:Decentralized Identity Using 3ID Approach.
 
-**This project is all about creating Decentralized Identity using Ceramic 3ID approach.**
+**This project is all about creating Decentralized Identity using Ceramic high level SDK-Self.ID approach.**
 
 **Ceramic is a decentralized data network, that allows for building composable Web3 applications. 
 Since Ceramic decentralizes application databases, application developers can reuse data across applications and make them automatically interoperable.**
