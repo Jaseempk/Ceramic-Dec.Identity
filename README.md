@@ -1,10 +1,12 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+
+## CERAMIC:Decentralized Identity Using 3ID Approach.
 
 **This project is all about creating Decentralized Identity using Ceramic 3ID approach.**
 
 **Ceramic is a decentralized data network, that allows for building composable Web3 applications. 
 Since Ceramic decentralizes application databases, application developers can reuse data across applications and make them automatically interoperable.**
 
+This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 ## Getting Started
 
 First, run the development server:
